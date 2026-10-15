@@ -17,6 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Nurul Atikah Binti Mazuki");
         System.out.println("Student ID : S88326");
         System.out.println("Prgramme: Bachelor of Computer Science");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
